@@ -7,7 +7,7 @@ Este é um aplicativo Flutter simples que gera números aleatórios para a Mega 
 - Gere números aleatórios para a Mega Sena.
 - Salve os números gerados.
 - Redefina o aplicativo para o estado original.
-- Tema escuro semelhante ao YouTube.
+- Tema escuro.
 
 ## Como usar
 
